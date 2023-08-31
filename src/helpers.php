@@ -10,7 +10,7 @@ if (! function_exists('async')) {
      *
      * @return \Spatie\Async\Process\ParallelProcess
      */
-    function async($task , $outputLength): Runnable
+    function async($task , $outputLength=10240): Runnable
     {
         return ParentRuntime::createProcess($task , $outputLength);
     }
