@@ -1,15 +1,15 @@
 {
-    "name": "mrmandoob/async",
+    "name": "mahmoudmsalem/async",
     "description": "Asynchronous and parallel PHP with the PCNTL extension",
     "keywords": [
         "mrmandoob",
         "async"
     ],
-    "homepage": "https://github.com/mrmandoob/async",
+    "homepage": "https://github.com/mahmoudmsalem/async",
     "license": "MIT",
     "authors": [
         {
-            "name": "mr mandoob",
+            "name": "mahmoud salem",
             "email": "mahmoudmsalem@mrmandoob.com",
             "homepage": "https://mrmandoob.com",
             "role": "Developer"
